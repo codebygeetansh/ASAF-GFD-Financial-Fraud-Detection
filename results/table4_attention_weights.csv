@@ -1,0 +1,5 @@
+Dataset,Fraud_alpha1_Structural,Fraud_alpha2_kNN,Normal_alpha1_Structural,Normal_alpha2_kNN
+FDCompCN,0.5750,0.4250,0.3418,0.6582
+FFSD,0.6145,0.3855,0.3889,0.6111
+Elliptic,0.6862,0.3138,0.2984,0.7016
+T-Finance,0.6677,0.3323,0.3257,0.6743

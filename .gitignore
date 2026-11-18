@@ -1,0 +1,20 @@
+# Virtual Environment & Cache
+fraud_env/
+__pycache__/
+*.py[cod]
+.vscode/
+
+# Large Raw Datasets & Models
+data/
+datasets/
+FDCompCN/*.csv
+FDCompCN/*.mat
+S-FFSD/*.csv
+*.pt
+*.pth
+*.pkl
+*.npz
+
+# OS files
+.DS_Store
+Thumbs.db

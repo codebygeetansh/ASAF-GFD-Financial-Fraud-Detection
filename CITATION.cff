@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use ASAF-GFD in your research, please cite our paper."
+title: "Graph-Based Financial Fraud Detection with Dual-Path Spectral-Spatial Filtering, Adaptive Self-Attention Fusion, and Ant Colony Metaheuristic Optimization (ASAF-GFD)"
+authors:
+  - family-names: "Gautam"
+    given-names: "Geetansh"
+    affiliation: "DAV Institute of Engineering and Technology (DAVIET), Jalandhar"
+  - family-names: "Kumar"
+    given-names: "Rajeev"
+    affiliation: "DAV Institute of Engineering and Technology (DAVIET), Jalandhar"
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
